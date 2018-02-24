@@ -3,9 +3,12 @@ body {background-color: darkblue;}
 h1 {color: silver;
 	box-sizing: 100px;
 	background-color: red;
+	border-radius: 5px;
 	width: 960px;
 	margin: 10px;
 }
+
+div {border-radius: 10px;}
 
 span {
 	color: yellow;
@@ -20,8 +23,12 @@ h2 {color: white;}
 
 .Nav {
 	height: 250px;
-	width: 300px;
-	margin: 10px;
+	width: 280px;
+	margin: 5px;
+	left: 0;
+	top: 0;
+	padding-left: 10px;
+	vertical-align: top;
 	text-decoration: underline;
 	position: static;
 	display: inline-block;
@@ -31,8 +38,8 @@ h2 {color: white;}
 
 
 .Declaration {
-	height: 700px;
-	width: 610px;
+	height: 810px;
+	width: 635px;
 	padding: 10px;
 	color: white;
 	background-color: black;
@@ -44,7 +51,7 @@ h2 {color: white;}
 #Link {
 	border-style: dotted;
 	background-color: grey;
-	width: 1000px;
+	width: 960px;
 	margin: 10px;
 }
 
