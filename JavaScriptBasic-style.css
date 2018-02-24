@@ -1,0 +1,51 @@
+body {background-color: darkblue;}
+
+h1 {color: silver;
+	box-sizing: 100px;
+	background-color: red;
+	width: 960px;
+	margin: 10px;
+}
+
+span {
+	color: yellow;
+}
+
+h2 {color: white;}
+
+.Container {
+	width: 960px;
+	display: inline-block;
+}
+
+.Nav {
+	height: 250px;
+	width: 300px;
+	margin: 10px;
+	text-decoration: underline;
+	position: static;
+	display: inline-block;
+	background-color: lightblue;
+	color: white;
+}
+
+
+.Declaration {
+	height: 700px;
+	width: 610px;
+	padding: 10px;
+	color: white;
+	background-color: black;
+	display: inline-block;
+	}
+
+
+
+#Link {
+	border-style: dotted;
+	background-color: grey;
+	width: 1000px;
+	margin: 10px;
+}
+
+
